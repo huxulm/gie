@@ -1,4 +1,4 @@
-# gimoji
+# gie
 ![gie](gie.png)
 ## 文档 [中文](README.md)|[EN](README.en.md)
 ## 安装 & 使用
