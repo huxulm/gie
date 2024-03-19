@@ -2,7 +2,7 @@
 
 ## Usage
 ```
-go install github.com/huxulm/gie
+go install github.com/huxulm/gie/cmd/gie
 # use gie instead of git
 gie commit -m ":art: welcome use gie!"
 ```

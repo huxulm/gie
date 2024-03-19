@@ -3,7 +3,7 @@
 ## 文档 [中文](README.md)|[EN](README.en.md)
 ## 安装 & 使用
 ```shell
-go install github.com/huxulm/gie/cmd
+go install github.com/huxulm/gie/cmd/gie
 ```
 ## 使用
 所有参数、子命令都直接传递到 `git` 中，除了 `git commit` 子命令会额外处理。
